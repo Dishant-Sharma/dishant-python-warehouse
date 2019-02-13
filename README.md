@@ -1,2 +1,0 @@
-# dishant-python-warehouse
-xxxxx
